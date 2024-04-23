@@ -47,3 +47,4 @@ function mostrarMaisProjetos(){
 }
 
 //truque para criar uma função automaticamente, selecionar todo o código necessário para a função, clicar com o direito, clicar em refatorar, clicar exctract to function in global scope
+//Challenge: adicionar rodapé, incluir o botão menos e trocar conteúdo textual, imagens e projetos para conteúdo próprio
